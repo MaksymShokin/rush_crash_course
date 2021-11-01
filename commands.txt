@@ -1,0 +1,8 @@
+rustup --version
+rustup update
+rustc --version
+cargo
+
+
+create new project
+cargo init
