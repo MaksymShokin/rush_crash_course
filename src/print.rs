@@ -1,4 +1,4 @@
 pub fn print() {
-  println!("yo")
-
+  println!("yo");
+  println!("Number {}", 1);
 }
