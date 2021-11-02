@@ -6,3 +6,12 @@ cargo
 
 create new project
 cargo init
+
+run project
+cargo run
+
+build project
+cargo build
+
+build production project
+cargo build --release
