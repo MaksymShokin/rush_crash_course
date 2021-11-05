@@ -2,6 +2,7 @@ rustup --version
 rustup update
 rustc --version
 cargo
+cargo --version
 
 
 create new project
